@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Mateusz</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PeWeX47.PeWeX47" />
+
 <h3 align="center">I'am a 3rd year student of Engineering and Data Analysis</h3>
 
 - 🔭 I'm an enthusiast of **Python, Machine Learning and Artificial Intelligence**
