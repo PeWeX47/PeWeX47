@@ -3,10 +3,15 @@
 </h1>
 
 <h3 align="center">I'am a 3rd year student of Engineering and Data Analysis</h3>
+<br/>
 
-- 🔭 I'm an enthusiast of **Python, Machine Learning and Artificial Intelligence**
-
-- 🌱 I’m currently learning **FastApi**
+<div align="center">
+ 
+ 🔭 🔭 I'm an enthusiast of **Python, Machine Learning and Artificial Intelligence**
+ 
+ 🌱 I’m currently learning **FastApi**
+ 
+ </div>
 
 <h3 align="center">Languages: </h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
