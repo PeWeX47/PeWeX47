@@ -7,11 +7,19 @@
 
 <div align="center">
  
- 🔭 🔭 I'm an enthusiast of **Python, Machine Learning and Artificial Intelligence**
+ 🔭  I'm an enthusiast of **Python, Machine Learning and Artificial Intelligence**
  
  🌱 I’m currently learning **FastApi**
  
  </div>
+
+ <div align="center"> 
+  <a href="mailto:pewex47@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+ <hr/>
 
 <h3 align="center">Languages: </h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
