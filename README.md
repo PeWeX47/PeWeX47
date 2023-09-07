@@ -9,7 +9,7 @@
  
  🔭  I'm an enthusiast of **Python, Machine Learning and Artificial Intelligence**
  
- 🌱 I’m currently learning **FastApi** and **Generative Adversarial Networks**
+ 🌱 I’m currently learning **FastApi**
  
  </div>
 
